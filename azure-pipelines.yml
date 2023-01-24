@@ -12,6 +12,10 @@ pool:
 steps:
 - script: docker build -t sample .
   displayName: 'build container'
+<<<<<<< HEAD
+=======
+  
+>>>>>>> a95052baf6d2eb90a79e43153fa61b3b8d200c4d
 
 
 # - script: |
